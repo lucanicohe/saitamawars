@@ -1,1 +1,1 @@
-https://lucanicohe.github.io/saitamawars/
+https://lucanicohe.github.io/saitamawars/index.html
