@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-assgod2d-1.0";
 const contentToCache = [
-    "Build/kobatongame.loader.js",
-    "Build/kobatongame.framework.js",
-    "Build/kobatongame.data",
-    "Build/kobatongame.wasm",
+    "Build/kobatongame2.loader.js",
+    "Build/kobatongame2.framework.js",
+    "Build/kobatongame2.data",
+    "Build/kobatongame2.wasm",
     "TemplateData/style.css"
 
 ];
